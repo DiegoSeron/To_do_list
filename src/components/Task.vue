@@ -1,3 +1,1 @@
-<template>
-    Task component
-</template>
+<template></template>

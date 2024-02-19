@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-import Name from '../components/Name.vue'
+// import TheWelcome from '../components/TheWelcome.vue'
+// import Name from '../components/Name.vue'
 import { ref } from 'vue'
 
 const userName = ref("John");
